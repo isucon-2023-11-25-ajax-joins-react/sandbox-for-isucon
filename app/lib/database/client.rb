@@ -15,6 +15,3 @@ module Database
     end
   end
 end
-
-
-binding.irb
